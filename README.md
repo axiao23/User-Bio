@@ -1,7 +1,7 @@
 # User-Bio
 Bio description 
 # 💫 About Me:
-🧭 I am currently working on researching methylation clocks <br> 📊 I am looking for help with using regression with many different variables<br> 📓 I am currently learning R and how to work with different models<br> 🐍 Ask me about python or talk to me about anything<br> 🏠 A fun fact about me is that I was born in Boston
+🧭 I am currently working on a research project involving sentinel-2 Satillite Data <br> 
 
 
 ## 🌐 Socials:
