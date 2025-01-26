@@ -1,7 +1,7 @@
 # User-Bio
 Bio description 
 # 💫 About Me:
-🧭 I am currently working on a research project involving sentinel-2 Satillite Data <br> 
+🧭 I am currently working on a research project involving Sentinel-2 Satillite Data <br> 
 
 
 ## 🌐 Socials:
